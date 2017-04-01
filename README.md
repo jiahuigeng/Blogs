@@ -1,3 +1,2 @@
 # Blogs
-my blogs
-###test the makedown programm
+daily blogs 
