@@ -1,0 +1,8 @@
+心得：
+使用 tf.summary.scalar  和 tf.summary.histogram 来记录数据
+summary operations 
+使用 tf.summary.merge_all 来分配好所有的标签操作
+使用 tf.summary.FileWriter 来写日志 和 在网站上 可视化 图片
+
+运行示例程序， 启动 TensorBoard :
+tensorboard --logdir=/tmp/tensorflow/mnist/logs/mnist_with_summaries
